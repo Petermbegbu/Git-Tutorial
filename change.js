@@ -1,3 +1,2 @@
 console.log("config.js");
-console.log("version newFeature2");
-
+console.log("version test2");
