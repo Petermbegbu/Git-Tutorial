@@ -1,1 +1,1 @@
-console.log("feature1 commit 3");
+console.log("conflit test 2");
