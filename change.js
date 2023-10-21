@@ -1,2 +1,5 @@
 console.log("config.js");
-console.log("version test1");
+
+console.log("justtest");
+
+console.log("final2");
